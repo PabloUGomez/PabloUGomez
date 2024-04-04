@@ -1,10 +1,10 @@
 # 💫 About Me:
-I am a computer technician, currently studying web development career.<br>
+I am a computer technician and web developer.<br>
 My hobbies:<br>
 -Riding motorcycles<br>
 -Listeing to music<br>
--Going to gym<br>
--Play video games (mainly strategy games like Magic and TeamFight Tactics) <br>
+-Going to the gym<br>
+-Playing video games (mainly strategy games like Magic: The Gathering and TeamFight Tactics) <br>
 
 
 ## 🌐 Socials:
